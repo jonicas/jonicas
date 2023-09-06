@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-
 Hello, I'm Jonathan, a passionate software engineer with a decade of experience in the dynamic world of software development. I hold a B.Sc. in Software Engineering and have a strong background in frontend development.
 
 ## My Expertise
